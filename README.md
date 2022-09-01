@@ -13,4 +13,4 @@
 
 ***
 ## Project screenshot :
-![Project-2/Restaurant home page](./Project-ss/SS.PNG) 
+![Project-2/Restaurant home page](./Project-SS/SS.PNG) 
