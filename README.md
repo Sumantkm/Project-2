@@ -1,4 +1,4 @@
-# Resturant home page [LINK](restaurant2-page.netlify.app)
+# Resturant home page [LINK](https://restaurant2-page.netlify.app)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Coudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
