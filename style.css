@@ -12,6 +12,7 @@ body{
     rgba(32, 29, 54, 0.75),rgba(27, 27, 56, 0.75)), url('./assets/pexels-maxyne-barcel-10402282\ 1.png');
   background-position: top;
   background-size: cover;
+  overflow: hidden;
  
 }
 
@@ -38,6 +39,7 @@ section .navbar{
 
 .navbar div img{
   margin-left: 100px;
+  width: 120px;
 }
 
 .navbar .list .list-item{
@@ -55,12 +57,12 @@ section .navbar{
 }
 
 .navbar .button-small{
-  width: 200px;
-  padding: 20px 0;
+  width: 160px;
+  padding: 16px 0;
   background-color: #d4ac61;
   margin-right: 100px;
   color: #fff;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 700;
   cursor: pointer;
   border: none;
@@ -85,9 +87,8 @@ section .navbar{
 }
 
 .hero .hero-heading{
-  font-size: 70px;
-  line-height: 100px;
-  max-width: 1000px;
+  font-size: 60px;
+  line-height: 80px;
   font-weight: bolder;
   color: orange;
   font-family: "Dela Gothic One" ;
@@ -95,7 +96,7 @@ section .navbar{
 
 .hero .button-large{
   background-color: #d4ac61;
-  padding: 15px 40px;
+  padding: 12px 35px;
   font-size: 20px;
   color: #fff;
   font-weight: 700;
@@ -106,4 +107,8 @@ section .navbar{
 .hero .bottom{
   align-self: flex-end;
   margin-right: 50px;
+}
+
+.hero .bottom div img{
+  width: 150px;
 }
